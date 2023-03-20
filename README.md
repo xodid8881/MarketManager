@@ -4,7 +4,7 @@
 • 플러그인 사용간 부가 플러그인
 
 - InventoryLib 플러그인을 이용해야 합니다.
-- https://github.com/xodid8881/InventoryLib
+- [InventoryLib](https://github.com/xodid8881/InventoryLib)
 
 - MailboxAPI 플러그인을 이용해야 합니다.
 - https://github.com/xodid8881/MailboxAPI
