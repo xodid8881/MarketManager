@@ -6,7 +6,7 @@
 - InventoryLib 플러그인을 이용해야 합니다.
 - https://github.com/xodid8881/InventoryLib
 
-- InventoryLib 플러그인을 이용해야 합니다.
+- MailboxAPI 플러그인을 이용해야 합니다.
 - https://github.com/xodid8881/MailboxAPI
 
 - 필수가 아닌 플러그인
