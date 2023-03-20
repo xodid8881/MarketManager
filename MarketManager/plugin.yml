@@ -1,0 +1,5 @@
+name: MarketManager
+author: HWABAEG
+main: MarketManager\MarketManager
+version: B1
+api: [4.0.0]
